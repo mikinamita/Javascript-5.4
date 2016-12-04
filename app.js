@@ -1,4 +1,4 @@
-//Assignment 6.4			
+//Assignment 5.4			
 var employee=[]
  employee[0]={name:"Namita", age:"30", salary:"5000",
 			address:{city:"Sundargarh",state:"Orissa",pin:"770072"}}; 
